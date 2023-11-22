@@ -1,1 +1,1 @@
-# technojam-task-DSA-CP
+I've Solved 2 easy problems.
